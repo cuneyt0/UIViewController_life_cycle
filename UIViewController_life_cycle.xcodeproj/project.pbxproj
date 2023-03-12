@@ -16,6 +16,7 @@
 		00A45E5429BE0DD40088DEE8 /* UIViewController_life_cycleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A45E5329BE0DD40088DEE8 /* UIViewController_life_cycleTests.swift */; };
 		00A45E5E29BE0DD40088DEE8 /* UIViewController_life_cycleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A45E5D29BE0DD40088DEE8 /* UIViewController_life_cycleUITests.swift */; };
 		00A45E6029BE0DD40088DEE8 /* UIViewController_life_cycleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A45E5F29BE0DD40088DEE8 /* UIViewController_life_cycleUITestsLaunchTests.swift */; };
+		00A45E6D29BE13F70088DEE8 /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00A45E6C29BE13F70088DEE8 /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		00A45E5929BE0DD40088DEE8 /* UIViewController_life_cycleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIViewController_life_cycleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00A45E5D29BE0DD40088DEE8 /* UIViewController_life_cycleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController_life_cycleUITests.swift; sourceTree = "<group>"; };
 		00A45E5F29BE0DD40088DEE8 /* UIViewController_life_cycleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController_life_cycleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		00A45E6C29BE13F70088DEE8 /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				00A45E3E29BE0DD20088DEE8 /* SceneDelegate.swift */,
 				00A45E4029BE0DD20088DEE8 /* ViewController.swift */,
 				00A45E4229BE0DD20088DEE8 /* Main.storyboard */,
+				00A45E6C29BE13F70088DEE8 /* ViewControllerTwo.swift */,
 				00A45E4529BE0DD30088DEE8 /* Assets.xcassets */,
 				00A45E4729BE0DD30088DEE8 /* LaunchScreen.storyboard */,
 				00A45E4A29BE0DD30088DEE8 /* Info.plist */,
@@ -261,6 +264,7 @@
 				00A45E4129BE0DD20088DEE8 /* ViewController.swift in Sources */,
 				00A45E3D29BE0DD20088DEE8 /* AppDelegate.swift in Sources */,
 				00A45E3F29BE0DD20088DEE8 /* SceneDelegate.swift in Sources */,
+				00A45E6D29BE13F70088DEE8 /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
